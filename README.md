@@ -1,2 +1,2 @@
-## Deep Learning By TensorFlow
+## TensorFlow
 ## (Simple NN, RNN, CNN)
